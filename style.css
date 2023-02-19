@@ -9,8 +9,11 @@ body {
 hr {
   display:block;
   border: 0;
-  height: 35px;
+  height: 15px;
   background-image: url(images/hr-barcode.gif);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
 } 
 
 header {
@@ -27,7 +30,7 @@ footer {
 
 /* Headings */
 
-h1, h3 {
+header h1, h3 {
   font-family: Arial, sans-serif;
   color: #A3BAC3;
   text-align: center;
@@ -56,6 +59,7 @@ p, li {
   
 footer p {
   color: #A3BAC3;
+  text-align: center;
   }
 
 /* Links */

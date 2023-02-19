@@ -6,16 +6,6 @@ body {
   background-image: url(images/marble-background.jpg);
 }
 
-hr {
-  display:block;
-  border: 0;
-  height: 100px;
-  background-image: url(images/hr-barcode.gif);
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center;
-} 
-
 header {
   height: 200px;
   background-color: #007090;

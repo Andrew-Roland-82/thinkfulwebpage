@@ -20,10 +20,20 @@ header {
   padding: 20px;
 }
 
+footer {
+  height: 50px;
+  background-color: #007090;
+  padding: 20px;
+  
+.pic {
+  
+
+/* Headings */
+
 h1, h3 {
   font-family: Arial, sans-serif;
   color: #A3BAC3;
-  text-align: left;
+  text-align: center;
 }
 
 h1 {
@@ -40,6 +50,8 @@ h2 {
   text-align: center;
   font-size: 50px;
 }
+
+/* Links */
 
 a:link { color: #01A7C2; }
 a:visited { color: #3C0000; }

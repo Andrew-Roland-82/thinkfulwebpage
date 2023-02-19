@@ -9,7 +9,7 @@ body {
 hr {
   display:block;
   border: 0;
-  height: 15px;
+  height: 30px;
   background-image: url(images/hr-barcode.gif);
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -61,13 +61,13 @@ h3 {
 h2 {
   font-family: Arial, sans-serif;
   color: black;
-  text-align: center;
+  text-align: left;
   font-size: 50px;
 }
 
 p, li {
    font-family: Arial, sans-serif;
-  text-align: center;
+  text-align: left;
   color: black;
   }
   

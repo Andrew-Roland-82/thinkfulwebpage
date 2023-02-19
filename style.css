@@ -17,12 +17,13 @@ hr
 header {
   height: 200px;
   background-color: #007090;
+  padding: 20px;
 }
 
 h1, h3 {
   font-family: Arial, sans-serif;
   color: #A3BAC3;
-  text-align: center;
+  text-align: left;
 }
 
 h1 {
@@ -32,5 +33,17 @@ h1 {
 h3 {
   font-size: 40px;
 }
+
+h2 {
+  font-family: Arial, sans-serif;
+  color: black;
+  text-align: center;
+  font-size: 50px;
+}
+
+a:link { color: #01A7C2; }
+a:visited { color: #3C0000; }
+a:hover { color: #774936; }
+a:active { color: #3B3B58; }
 
   

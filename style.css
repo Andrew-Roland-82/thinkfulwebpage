@@ -10,7 +10,7 @@ hr {
   display:block;
   border:0;
   height:10px;
-  background-image:url (images/hr-barcode.gif);
+  background-image: url(images/hr-barcode.gif);
 } 
 
 header {

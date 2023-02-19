@@ -24,9 +24,7 @@ footer {
   height: 50px;
   background-color: #007090;
   padding: 20px;
-  
-.pic {
-  
+    
 
 /* Headings */
 
@@ -50,6 +48,16 @@ h2 {
   text-align: center;
   font-size: 50px;
 }
+
+p, li {
+   font-family: Arial, sans-serif;
+  text-align: center;
+  color: black;
+  }
+  
+footer p {
+  color: #A3BAC3;
+  }
 
 /* Links */
 

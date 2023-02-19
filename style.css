@@ -76,6 +76,10 @@ footer p {
   text-align: center;
   }
 
+.center {
+  text-align: center;
+}
+
 /* Links */
 
 a:link { color: #01A7C2; }

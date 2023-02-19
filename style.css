@@ -6,4 +6,10 @@ body {
   background-image:url (images/marble_background.jpg);
 }
 
-header
+hr
+{
+  display:block;
+  border:0;
+  height:10px;
+  background-image:url('img/ruler.gif');
+} 
